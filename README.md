@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QWERTZexe)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/QWERTZexe/repos?time_range=one_year&theme=dark)
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/QWERTZexe/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=QWERTZexe&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
